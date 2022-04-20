@@ -1,16 +1,3 @@
-"""
-Proset has some advantages over Set/Triology.
-
-- It's easier to explain.
-- Prosets can be any number of cards (including the entire board).
-- One is guaranteed a proset in 7 cards.
-- The deck should end in a set.
-- It's a fresher game.
-
-Try to find a set (any number) of cards with an even number of every color.
-
-"""
-
 from __future__ import annotations
 import math
 import shutil
